@@ -1,0 +1,114 @@
+{
+  "id": "3660586",
+  "name": "uni-app 教育",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "145727",
+      "name": "搜索_填充",
+      "font_class": "sousuotianchong",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "880499",
+      "name": "设置",
+      "font_class": "setupb",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "1214984",
+      "name": "余额宝",
+      "font_class": "yuebao",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "3978364",
+      "name": "web资产",
+      "font_class": "webzichan",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "6129155",
+      "name": "114订单、订单明细、收支明细",
+      "font_class": "dingdandingdanmingxishouzhimingxi",
+      "unicode": "e789",
+      "unicode_decimal": 59273
+    },
+    {
+      "icon_id": "6268297",
+      "name": "拍视频",
+      "font_class": "paishipin",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "7712204",
+      "name": "教师",
+      "font_class": "jiaoshi",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "9512593",
+      "name": "奖牌",
+      "font_class": "medal-fill",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "9626872",
+      "name": "好评",
+      "font_class": "haoping",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    },
+    {
+      "icon_id": "11349209",
+      "name": "tiphot",
+      "font_class": "tiphot",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "11349289",
+      "name": "tipnew",
+      "font_class": "tipnew",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "13468927",
+      "name": "返回顶部",
+      "font_class": "fanhuidingbu",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "14996421",
+      "name": "意见反馈",
+      "font_class": "yijianfankui",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "19696041",
+      "name": "nice2",
+      "font_class": "nice2",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "24890972",
+      "name": "Free-Tag 1",
+      "font_class": "a-Free-Tag1",
+      "unicode": "e845",
+      "unicode_decimal": 59461
+    }
+  ]
+}
