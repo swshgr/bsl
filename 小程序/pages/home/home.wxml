@@ -1,0 +1,17 @@
+<!--pages/home/home.wxml-->
+<view class="header">
+<view class="heder-box">
+<view class="heder-box-zuo">
+管理类联考<i class="icon-youce"></i>
+</view>
+<view class="heder-box-you"></view>
+</view>
+<view>
+
+</view>
+</view>
+
+<view ></view>
+
+
+
