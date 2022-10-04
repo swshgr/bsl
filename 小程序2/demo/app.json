@@ -8,17 +8,34 @@
         "pages/study/study",
         "pages/miaowu/miaowu",
         "pages/tool/tool",
-        "pages/personal/personal"
+        "pages/personal/personal",
+        "pages/setup/setup",
+        "pages/user/user",
+        "pages/Collection/Collection",
+        "pages/member/member",
+        "pages/myQuan/myQuan",
+        "pages/messageList/messageList",
+        "pages/question/question",
+        "pages/myOrder/myOrder",
+        "pages/studyCard/studyCard",
+        "pages/address/address",
+        "pages/login/login",
+        "pages/huatiList/huatiList",
+        "pages/huatiDetails/huatiDetails",
+        "pages/logins/logins",
+        "pages/bookdetail/bookdetail",
+        "pages/squire/squire",
+        "pages/kdetails/kdetails"
     ],
     "window": {
         "backgroundTextStyle": "light",
         "navigationBarBackgroundColor": "#fff",
-        "navigationBarTitleText": "包胜利",
+        "navigationBarTitleText": "",
         "navigationBarTextStyle": "black"
     },
     "sitemapLocation": "sitemap.json",
     "tabBar": {
-        "selectedColor": "#fff",
+        "selectedColor": "#f15a1f",
         "list": [{
                 "pagePath": "pages/index/index",
                 "text": "选课",
